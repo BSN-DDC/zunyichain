@@ -30,10 +30,9 @@
         <dependency>
             <groupId>com.slabs.corda</groupId>
             <artifactId>ddcsdk</artifactId>
-            <version>1.1.4</version>
+            <version>1.1.6</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/resources/lib/ddcsdk_bsn-1.1.6.jar
-            </systemPath>
+            <systemPath>${project.basedir}/src/main/resources/lib/ddcsdk_bsn-1.1.6.jar</systemPath>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->

@@ -1,0 +1,17 @@
+rpc:
+  ## 超时时间
+  conTimeout: 60
+  readTimeout: 60
+  username: "operator0_O=NodeB,L=Beijing,C=CN"
+  password: "test"
+  host: opbningxia.bsngate.com
+  port: 18604
+  sslPath: C:\Users\DELL\Desktop\rpcsslkeystore.jks
+  sslPwd: cordauser
+  privateKey:
+
+
+contract:
+  ddc721Addr: "ddc721Addr"
+  ddc1155Addr: "ddc1155Addr"
+
